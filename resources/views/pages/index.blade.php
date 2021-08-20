@@ -71,7 +71,7 @@
 
 
     
-.card {
+/* .card {
   
   --color1: rgb(0, 231, 255);
   --color2: rgb(255, 0, 231);
@@ -96,7 +96,7 @@
   z-index: 10;
   overflow: hidden;
   transform: translate3d(0,0,-1px); 
-}
+} */
 
 
 
