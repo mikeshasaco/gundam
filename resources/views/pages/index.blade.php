@@ -316,8 +316,8 @@
                     <div class="text-container">
                         <h1 class="h1-large" style="color:black;font-family: 'Permanent Marker', cursive;">Gundam (ATH) Token</h1>
                         <p class="p-large" style="color:black; font-family: 'Permanent Marker', cursive">Gundam ATH ($GUNDATH) is a fully decentralized, peer-to-peer digital currency, owned in whole by its community with instant rewards for holders. </p>
-                        <a href="https://t.me/joinchat/uPVuU0aEFUpjMjNh" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
-                        <a href="https://twitter.com/captainelement_" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
+                        <a href="https://t.me/GundamATH" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
+                        <a href="https://twitter.com/FinanceGundam" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
                         <br>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -615,7 +615,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://t.me/joinchat/uPVuU0aEFUpjMjNh" target="_blank">Click Here For Telegram</a>                                    
+                                        <a href="https://t.me/GundamATH" target="_blank">Click Here For Telegram</a>                                    
                                 </p>
                             </div>
 
@@ -628,7 +628,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://twitter.com/captainelement_" target="_blank">Click Here For Twitter</a>                                    
+                                        <a href="https://twitter.com/FinanceGundam" target="_blank">Click Here For Twitter</a>                                    
                                 </p>
                             </div>
 
