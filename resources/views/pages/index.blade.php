@@ -353,7 +353,7 @@
                             <ul class="list-unstyled li-space-lg">
                            
                                 <li class="media">
-                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Rewards are distributed to holders automatically and in real-time. With every transaction (buy or sell), 10% of the transaction value is distributed to holders. </div>
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Rewards are distributed to holders automatically and in real-time. With every transaction (buy or sell), 1% of the transaction value is distributed to holders. </div>
                                 </li>
                              
                             </ul>
@@ -413,7 +413,7 @@
                             <li style="color:black; font-family: 'Permanent Marker', cursive;">Particpate in The Presale Earn Free NFT!</li>
                             <li style="color:black; font-family: 'Permanent Marker', cursive;">Once you purchase your tokens receive NFT: Tron </li>
                             <li style="color:black; font-family: 'Permanent Marker', cursive;">First NFT in the set only presale buyers can recieve Tron</li>
-
+                            <li style="color:black; font-family: 'Permanent Marker', cursive;">We are creating a NFT Gundam game where there will be PVP matches in which gundam will be able to battle each other.</li>
                         </ul>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
