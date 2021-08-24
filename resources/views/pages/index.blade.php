@@ -450,20 +450,14 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >10% Redistribution Ethereum To Community Holders. <br>  Ethereum will be distrbuted every 60 min to holders</div>
+                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >18% Redistribution Ethereum To Community Holders. <br>  Ethereum will be distrbuted every 60 min to holders</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >NO DEV Team Wallet </div>
+                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >4% for the dev </div>
                             </li>
-                            <li class="media">
-                                <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >2% To Liqudity pool </div>
-                            </li>
-
                             <li>
                             <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive; " >50% of the total supply will be burned before launch </div>
-
                             </li>
                         </ul>
   
