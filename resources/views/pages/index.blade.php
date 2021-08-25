@@ -318,7 +318,7 @@
                         <p class="p-large" style="color:black; font-family: 'Permanent Marker', cursive">Gundam ATH ($GUNDATH) is a fully decentralized, peer-to-peer digital currency, owned in whole by its community with instant rewards for holders. </p>
                         <a href="https://t.me/GundamATH" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/FinanceGundam" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
-                        <a href="https://forms.gle/9obbAcgAx1z6j9MC7" class="btn btn-primary">Presale </a>
+                        <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" class="btn btn-primary">Presale </a> -->
                         <br>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -636,7 +636,8 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://forms.gle/9obbAcgAx1z6j9MC7" target="_blank">Presale Information</a>                                    
+                                    DxSale: Friday 5pm EST
+                                        <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" target="_blank">Presale Information</a>                                     -->
                                 </p>
                             </div>
 
