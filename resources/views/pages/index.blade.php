@@ -353,7 +353,7 @@
                             <ul class="list-unstyled li-space-lg">
                            
                                 <li class="media">
-                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Rewards are distributed to holders automatically and in real-time. With every transaction (buy or sell), 18% of the transaction value is distributed to holders. </div>
+                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Rewards are distributed to holders automatically and in real-time. With every transaction (buy or sell), 15% of the transaction value is distributed to holders. </div>
                                 </li>
                              
                             </ul>
@@ -370,7 +370,7 @@
                         </div>
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
-                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">Gundam Games - Will be a pvp style game where our holders can use there NFT's and be able battle against other members in the community.</div>
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">Gundam Games - Will be a pvp style game where our holders can use the NFT's and battle against other members in the community.</div>
                                 </li>
                               
                             </ul>
@@ -450,7 +450,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >18% Redistribution Ethereum To Community Holders. <br>  Ethereum will be distrbuted every 60 min to holders</div>
+                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >15% Redistribution Ethereum To Community Holders. <br>  Ethereum will be distrbuted every 60 min to holders</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
