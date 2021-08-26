@@ -370,7 +370,7 @@
                         </div>
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
-                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">We will be making our own decentralized exchange where our holders can buy or swap their tokens.</div>
+                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">Gundam Games - Will be a pvp style game where our holders can use the NFT's and battle against other members in the community.</div>
                                 </li>
                               
                             </ul>
