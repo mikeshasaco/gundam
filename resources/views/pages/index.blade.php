@@ -314,8 +314,8 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h1 class="h1-large" style="color:black;font-family: 'Permanent Marker', cursive;">Gundam (ATH) Token</h1>
-                        <p class="p-large" style="color:black; font-family: 'Permanent Marker', cursive">Gundam ATH ($GUNDATH) is a fully decentralized, peer-to-peer digital currency, owned in whole by its community with instant rewards for holders. </p>
+                        <h1 class="h1-large" style="color:black;font-family: 'Permanent Marker', cursive;"> DogFrmMortalkombat</h1>
+                        <p class="p-large" style="color:black; font-family: 'Permanent Marker', cursive">Welcome to DogFrmMortalkombat ($DFMK) launching on the solana network here to rescue the solana network!</p>
                         <a href="https://t.me/GundamATH" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/FinanceGundam" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
                         <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" class="btn btn-primary">Presale </a> -->
@@ -324,109 +324,13 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="gundam1.png" style="animation: holoCard 15s ease infinite;" alt="alternative">
+                        <img class="img-fluid" src="subdoge.jpg" style="animation: holoCard 15s ease infinite;" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </header> <!-- end of header -->
     <!-- end of header -->
-
-     
-    <!-- Pricing -->
-    <div id="pricing" class="cards-2" style="background-color:white; margin-top: -100px;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="h2-heading">RoadMap</h2>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-            <div class="row">
-                <div class="col-lg-12">
-
-                    <!-- Card-->
-                    <div class="card" style="background-color:white;">
-                        <div class="card-body">
-                        <div class="card-image">
-                            <img class="img-fluid" style="height:30px;" src="images/ethereum.png" alt="alternative">
-                        </div>
-                            <ul class="list-unstyled li-space-lg">
-                           
-                                <li class="media">
-                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Rewards are distributed to holders automatically and in real-time. With every transaction (buy or sell), 15% of the transaction value is distributed to holders. </div>
-                                </li>
-                             
-                            </ul>
-                         
-                        </div>
-                    </div> <!-- end of card -->
-                    <!-- end of card -->
-
-                    <!-- Card-->
-                    <div class="card" style="background:white;">
-                        <div class="card-body">
-                        <div class="card-image">
-                            <img class="img-fluid" style="height:30px;" src="images/gundamflaticon.png" alt="alternative">
-                        </div>
-                            <ul class="list-unstyled li-space-lg">
-                                <li class="media">
-                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">Gundam Games - Will be a pvp style game where our holders can use the NFT's and battle against other members in the community.</div>
-                                </li>
-                              
-                            </ul>
-                           
-                        </div>
-                    </div> <!-- end of card -->
-                    <!-- end of card -->
-
-                    <!-- Card-->
-                    <div class="card" style="background:white;">
-                        <div class="card-body">
-                        <div class="card-image">
-                            <img class="img-fluid" src="images/nft.png" style="height:30px;"  alt="alternative">
-                        </div>
-                            <ul class="list-unstyled li-space-lg">
-                                <li class="media">
-                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">We are releasing 30 Unique Gundam Wings NFT's that we will be auctioning for our holders.</div>
-                                </li>
-                           
-                            </ul>
-                           
-                        </div>
-                    </div> <!-- end of card -->
-                    <!-- end of card -->
-
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of cards-2 -->
-    <!-- end of pricing -->
-
-    <!-- Details 1 -->
-    <div id="details" class="basic-2" style="background-color:white;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="text-container">
-                        <h2 style="color:black; font-family: 'Permanent Marker', cursive;">Presale NFT!</h2>
-                        <ul>
-                            <li style="color:black; font-family: 'Permanent Marker', cursive;">Particpate in The Presale Earn Free NFT!</li>
-                            <li style="color:black; font-family: 'Permanent Marker', cursive;">Once you purchase your tokens receive NFT: Tron </li>
-                            <li style="color:black; font-family: 'Permanent Marker', cursive;">First NFT in the set only presale buyers can recieve Tron</li>
-                            <li style="color:black; font-family: 'Permanent Marker', cursive;">We are creating a NFT Gundam games where there will be PVP matches in which gundam will be able to battle each other.</li>
-                        </ul>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-                <div class="col-lg-7">
-                    <div class="image-container">
-                    <img class="img-fluid" src="gundamwingsO.gif" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-2 -->
-    <!-- end of details 1 -->
-
 
 
    
@@ -437,7 +341,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="image-container">
-                    <img class="img-fluid" src="gundamhead.png" alt="alternative">
+                    <img class="img-fluid" src="subdoge.jpg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
@@ -446,18 +350,18 @@
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >1,000,000,000,000,000 Total Supply</div>
+                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >1 Billion Total Supply</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >15% Redistribution Ethereum To Community Holders. <br>  Ethereum will be distrbuted every 60 min to holders</div>
+                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >10% for Marketing</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
                                 <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >4% for the dev </div>
                             </li>
                             <li>
-                            <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive; " >50% of the total supply will be burned before launch </div>
+                            <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive; " >Come and Join the Movement!</div>
                             </li>
                         </ul>
   
@@ -488,9 +392,6 @@
                             <ul class="list-unstyled li-space-lg">
                            
                                 <li class="media">
-                                    <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">Release 1st Edition  NFT's </div>
-                                </li>
-                                <li class="media">
                                     <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;;">1000 Holders</div>
                                 </li>
                                 <li class="media">
@@ -514,9 +415,7 @@
                         <div class="card-body">
                             <div class="card-title" style="color:black;font-family: 'Permanent Marker', cursive;">Phase 2</div>
                             <ul class="list-unstyled li-space-lg">
-                                <li class="media">
-                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">Release 2nd Edition  NFT's</div>
-                                </li>
+                        
                                 <li class="media">
                                     <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">5,000 Holders</div>
                                 </li>
@@ -541,9 +440,6 @@
                         <div class="card-body">
                             <div class="card-title" style="color:black;font-family: 'Permanent Marker', cursive;">Phase 3</div>
                             <ul class="list-unstyled li-space-lg">
-                                <li class="media">
-                                <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">Release NFT's Battles</div>
-                                </li>
                                 <li class="media">
                                 <i class="fas fa-chevron-right"></i><div class="media-body" style="color:black;font-family: 'Permanent Marker', cursive;">10,000 Holders</div>
                                 </li>
@@ -573,133 +469,6 @@
 
 
 
-<section id="Merchant-help"  style="padding-top: 100px; padding-bottom:100px; background:white; " >
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; color:black; font-family: 'Permanent Marker', cursive;">FAQ</h2>
-
-                    <div class="question-title">
-                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;">  What is GUNDAM ATH ($GUNDATH) Token? </h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;font-family: 'Permanent Marker', cursive;"> Gundam (ATH), is a fully decentralized, peer-to-peer digital currency, owned in whole by its community with instant rewards for holders.</p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                   
-
-                    <!-- <div class="question-title">
-                        <h3 style="font-family: 'Creepster', cursive; color:red; font-size:22px;">          Do you have marketing planned? </h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p>
-                                     Yes please see our Marketing Roadmap above!
-                                </p>
-                            </div>
-
-                        </div>
-
-                    </div> -->
-
-                    <div class="question-title">
-                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> How can i join the Telegram?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p>
-                                        <a href="https://t.me/GundamATH" target="_blank">Click Here For Telegram</a>                                    
-                                </p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                        <div class="question-title">
-                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> How can i follow us on Twitter?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p>
-                                        <a href="https://twitter.com/FinanceGundam" target="_blank">Click Here For Twitter</a>                                    
-                                </p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="question-title">
-                        <h3 style="color:white;font-family: 'Permanent Marker', cursive;"> Presale Information?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p>
-                                    DxSale: Friday 5pm EST
-                                        <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" target="_blank">Presale Information</a>                                     -->
-                                </p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                
-                    
-                    <!-- <div class="question-title">
-                        <h3 style="font-family: 'Creepster', cursive; color:red;font-size:22px;"> Contract Code</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <h2>0xc4f976161e0ac8a98445374927a496f03faa3deb</h2>
-                            </div>
-
-                        </div>
-
-                    </div> -->
-
-                    
-
-                    
-
-                    <!-- <div class="question-title">
-                        <h3 style="font-family: 'Creepster', cursive; color:red;font-size:22px;"> Presale Information</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p>
-                                Read Instructions above if you have anymore questions join <a href="https://t.me/joinchat/uPVuU0aEFUpjMjNh" style="color:red;" target="_blank">Telegram</a>   and we will be happy to help.
-                              </p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="question-title">
-                        <h3 style="font-family: 'Creepster', cursive; color:red;font-size:22px;"> Presale Price</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p>
-                                Presale is determined by how much Liquidity that we add on launch which is determine by how much token supply 
-                                has been given to our holders times the amount of Ethereum that is added to Liquidity.As we get closer to launch and have a 
-                                more definitive and precise answer so stay tuned!
-                              </p>
-                            </div>
-
-                        </div>
-
-                    </div> -->
-
-
-
-
-
-            </div>
-
-        </div>
-    </div>
-
-</section>
 
 
 
