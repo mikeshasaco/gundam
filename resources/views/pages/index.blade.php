@@ -316,7 +316,7 @@
                     <div class="text-container">
                         <h1 class="h1-large" style="color:black;font-family: 'Permanent Marker', cursive;"> Ears Stay OFF ($EARS)</h1>
                         <p class="p-large" style="color:black; font-family: 'Permanent Marker', cursive">Joe biden approves NO EARS!</p>
-                        <a href="https://t.me/GundamATH" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
+                        <a href="https://t.me/earsstayoff" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/FinanceGundam" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
                         <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" class="btn btn-primary">Presale </a> -->
                         <br>
