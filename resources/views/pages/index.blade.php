@@ -314,8 +314,8 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h1 class="h1-large" style="color:black;font-family: 'Permanent Marker', cursive;"> DogFrmMortalkombat</h1>
-                        <p class="p-large" style="color:black; font-family: 'Permanent Marker', cursive">Welcome to DogFrmMortalkombat ($DFMK) launching on the solana network here to rescue the solana network!</p>
+                        <h1 class="h1-large" style="color:black;font-family: 'Permanent Marker', cursive;"> Ears Stay OFF ($EARS)</h1>
+                        <p class="p-large" style="color:black; font-family: 'Permanent Marker', cursive">Joe biden approves NO EARS!</p>
                         <a href="https://t.me/GundamATH" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/FinanceGundam" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
                         <!-- <a href="https://forms.gle/9obbAcgAx1z6j9MC7" class="btn btn-primary">Presale </a> -->
@@ -324,7 +324,7 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="subdoge.jpg" style="animation: holoCard 15s ease infinite;" alt="alternative">
+                        <img class="img-fluid" src="ears.jpg" style="animation: holoCard 15s ease infinite;" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -341,7 +341,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="image-container">
-                    <img class="img-fluid" src="subdoge.jpg" alt="alternative">
+                    <img class="img-fluid" src="ears.jpg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
@@ -354,11 +354,11 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >10% for Marketing</div>
+                                <!-- <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >10% for Marketing</div> -->
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" >4% for the dev </div>
+                                <!-- <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive;" > </div> -->
                             </li>
                             <li>
                             <div class="media-body" style="color:black; font-family: 'Permanent Marker', cursive; " >Come and Join the Movement!</div>

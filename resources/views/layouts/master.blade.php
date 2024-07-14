@@ -6,7 +6,7 @@
 
 
     <!-- Webpage Title -->
-    <title>DogFrmMortalKombat</title>
+    <title>Ears Stay OFF</title>
    
 <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
 
@@ -25,7 +25,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="subdoge.jpg">
+    <link rel="icon" href="ears.jpg">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -37,7 +37,7 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Pavo</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand "  style="color:black; font-family: 'Permanent Marker', cursive ; font-size:24px; text-decoration: none; ">DogFrmMortalKombat</a> 
+            <a class="navbar-brand "  style="color:black; font-family: 'Permanent Marker', cursive ; font-size:24px; text-decoration: none; ">EarsStayOff</a> 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
